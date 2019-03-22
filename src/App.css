@@ -1,0 +1,24 @@
+.tasksContainer{
+  margin: 5px;
+  padding: 10px 0;
+  border: solid 1px #ddd;
+}
+
+.header {
+  padding: 40px;
+}
+
+.cardd{
+  border: solid 1px #ddd;
+  padding: 15px;
+  margin: 0 5px 10px 5px!important;
+}
+
+p{
+  font-size: 20px;
+  margin-bottom: 0!important;
+}
+
+.btn{
+  margin-left: 20px;
+}
